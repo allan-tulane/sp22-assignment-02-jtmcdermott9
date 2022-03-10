@@ -17,6 +17,14 @@ class BinaryNumber:
 ## Implement multiplication functions here. Note that you will have to
 ## ensure that x, y are appropriately sized binary vectors for a
 ## divide and conquer approach.
+def multiply(x,y):
+
+	
+
+
+
+
+	
 def binary2int(binary_vec): 
     if len(binary_vec) == 0:
         return BinaryNumber(0)
