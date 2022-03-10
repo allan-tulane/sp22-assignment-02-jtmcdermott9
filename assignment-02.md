@@ -84,6 +84,7 @@ and push to your github repository.
 
     What are the asymptotic running times of each of these algorithms?
     Which algorithm would you choose?
+    A is an element of O(n^log_5 2), B is an element of O(n^2), C is an element of O(n^2 log n). Option B is obviously worse than A and C, but is A or C better. By taking the limit as n approaches infintity of A/C, we find that A asymptotically dominates C, so C is the best choice.
 
 
 3. Now that you have some practice solving recurrences, let's work on
